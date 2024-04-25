@@ -31,3 +31,4 @@ My approach to software design focuses on modularity and scalability. I rely on 
 **Submission Details**
 
 Please refer to the Business Requirements and System Design documents included in this repository. These documents are essential for understanding the depth and breadth of the system designed for DriverPass. There are also documents added that go with these 2 main documents that can be reviewed.
+Click on 'View Raw' to see the actual document.
