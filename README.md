@@ -22,8 +22,8 @@ If I were to revise one part of my work, it would be the integration of real-tim
 **User Needs Implementation**
 
 Understanding and implementing user needs were pivotal in this project. I employed a user-centered design approach, evident from the Use Case and Activity Diagrams which outline the complete user interaction with the system. Considering user needs is crucial as it ensures the system is practical and addresses the real challenges users face.
-**
-Design Approach**
+
+**Design Approach**
 
 My approach to software design focuses on modularity and scalability. I rely on UML diagrams to visualize system components and their interactions clearly. Going forward, I would enhance my techniques by incorporating more agile methodologies to accommodate changes more fluidly.
 
