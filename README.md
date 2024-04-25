@@ -3,8 +3,9 @@
 **Overview**
 
 This repository contains key documents that I have developed as part of the CS255 course, focusing on system analysis and design. The documents included are the Business Requirements Document from Project One and the System Design Document from Project Two. These artifacts demonstrate my skills in gathering requirements and designing systems that effectively meet client needs.
-Projects Summary
-DriverPass Project
+
+**Projects Summary
+DriverPass Project**
 
 **Client: DriverPass, a company offering driver training services to help students pass their DMV driving tests.**
 
@@ -21,7 +22,7 @@ If I were to revise one part of my work, it would be the integration of real-tim
 
 **User Needs Implementation**
 
-Understanding and implementing user needs were pivotal in this project. I employed a user-centered design approach, evident from the Use Case and Activity Diagrams which outline the complete user interaction with the system. Considering user needs is crucial as it ensures the system is practical and addresses the real challenges users face.
+Understanding and implementing user needs were important in this project. I employed a user-centered design approach, evident from the Use Case and Activity Diagrams which outline the complete user interaction with the system. Considering user needs is crucial as it ensures the system is practical and addresses the real challenges users face.
 
 **Design Approach**
 
@@ -29,4 +30,4 @@ My approach to software design focuses on modularity and scalability. I rely on 
 
 **Submission Details**
 
-Please refer to the Business Requirements and System Design documents included in this repository. These documents are essential for understanding the depth and breadth of the system designed for DriverPass.
+Please refer to the Business Requirements and System Design documents included in this repository. These documents are essential for understanding the depth and breadth of the system designed for DriverPass. There are also documents added that go with these 2 main documents that can be reviewed.
