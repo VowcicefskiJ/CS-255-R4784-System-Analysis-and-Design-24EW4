@@ -22,7 +22,7 @@ If I were to revise one part of my work, it would be the integration of real-tim
 
 **User Needs Implementation**
 
-Understanding and implementing user needs were important in this project. I employed a user-centered design approach, evident from the Use Case and Activity Diagrams which outline the complete user interaction with the system. Considering user needs is crucial as it ensures the system is practical and addresses the real challenges users face.
+Understanding and implementing user needs were important in this project. I focused on a user-centered design approach, shown from the Use Case and Activity Diagrams which outline the complete user interaction with the system. Considering user needs is crucial as it ensures the system is practical and addresses the real challenges users face.
 
 **Design Approach**
 
